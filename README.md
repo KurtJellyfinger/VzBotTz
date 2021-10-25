@@ -4,6 +4,8 @@ Thanks to Simon, the original creator of the VzBot:
 
 https://www.youtube.com/channel/UCEZr0_vwtka0HteUcfzXaOQ
 
+https://github.com/VzBot3D
+
 https://www.facebook.com/groups/4098868770205560
 
 And the guys at Voron:
