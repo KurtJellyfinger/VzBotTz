@@ -16,8 +16,11 @@ This is my modification of the Z axis from the Voron Trident (https://www.vorond
 
 Changes from the Voron design, Linear rails changed from MGN9 to MGN12, requiring the design of the Z carriages and new motor mounts.
 
-The BOM when upgrading from a standard Tronxy X5SA is:
 
+
+
+
+The BOM when upgrading from a standard Tronxy X5SA is:
 
 3x 400mm MGN12c (upto 500mm will fit)
 
