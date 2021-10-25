@@ -1,8 +1,8 @@
-# VzBotTz-
-VzBot Triple Z
+# VzBotTz-  VzBot Triple Z
 
 Thanks to Simon, the original creator of the VzBot:
 https://www.youtube.com/channel/UCEZr0_vwtka0HteUcfzXaOQ
+
 https://www.facebook.com/groups/4098868770205560
 
 And the guys at Voron:
