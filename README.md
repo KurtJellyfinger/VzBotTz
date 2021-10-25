@@ -30,7 +30,9 @@ The BOM when upgrading from a standard Tronxy X5SA is:
 
 1x Nema 17 stepper
 
-4x 400mm 2020 extrusion
+4x 400mm 2020 extrusion for bed
+
+1x 530mm 2020 extrusion for rear rail
 
 Various M3 & M5 screws and T-nuts
 
