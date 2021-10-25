@@ -18,7 +18,7 @@ Changes from the Voron design, Linear rails changed from MGN9 to MGN12, requirin
 
 
 
-
+________________________________
 
 The BOM when upgrading from a standard Tronxy X5SA is:
 
