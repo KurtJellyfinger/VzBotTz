@@ -18,7 +18,9 @@ Changes from the Voron design, Linear rails changed from MGN9 to MGN12, requirin
 
 The BOM when upgrading from a standard Tronxy X5SA is:
 
+
 3x 400mm MGN12c (upto 500mm will fit)
+3x EGLM-05 Igus spherical bearings (UK supplier: https://www.igus.co.uk/product/391?artNr=EGLM-05)
 1x 400mm T8 leadscrew
 1x Nema 17 stepper
 4x 400mm 2020 extrusion
